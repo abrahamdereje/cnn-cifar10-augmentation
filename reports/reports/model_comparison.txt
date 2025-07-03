@@ -1,0 +1,13 @@
+Model Comparison Results:
+- custom_no_aug_metrics.png
+- custom_no_aug_classification_report.txt
+- custom_no_aug_confusion_matrix.png
+- custom_with_aug_metrics.png
+- custom_with_aug_classification_report.txt
+- custom_with_aug_confusion_matrix.png
+- resnet_no_aug_metrics.png
+- resnet_no_aug_classification_report.txt
+- resnet_no_aug_confusion_matrix.png
+- resnet_with_aug_metrics.png
+- resnet_with_aug_classification_report.txt
+- resnet_with_aug_confusion_matrix.png

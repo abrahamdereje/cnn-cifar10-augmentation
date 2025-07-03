@@ -1,0 +1,60 @@
+
+=============================
+📦 Model: custom_no_aug
+✅ Overall Accuracy: 0.72 (72 / 100)
+📊 Per-class Accuracy:
+  - airplane: 0.80
+  - automobile: 0.90
+  - bird: 0.70
+  - cat: 0.80
+  - deer: 0.30
+  - dog: 0.40
+  - frog: 0.70
+  - horse: 0.70
+  - ship: 0.90
+  - truck: 1.00
+
+=============================
+📦 Model: custom_with_aug
+✅ Overall Accuracy: 0.65 (65 / 100)
+📊 Per-class Accuracy:
+  - airplane: 0.80
+  - automobile: 1.00
+  - bird: 0.60
+  - cat: 0.50
+  - deer: 0.20
+  - dog: 0.40
+  - frog: 0.60
+  - horse: 0.70
+  - ship: 0.70
+  - truck: 1.00
+
+=============================
+📦 Model: resnet_no_aug
+✅ Overall Accuracy: 0.78 (78 / 100)
+📊 Per-class Accuracy:
+  - airplane: 0.70
+  - automobile: 0.90
+  - bird: 0.80
+  - cat: 0.70
+  - deer: 0.60
+  - dog: 0.60
+  - frog: 0.90
+  - horse: 0.70
+  - ship: 1.00
+  - truck: 0.90
+
+=============================
+📦 Model: resnet_with_aug
+✅ Overall Accuracy: 0.87 (87 / 100)
+📊 Per-class Accuracy:
+  - airplane: 1.00
+  - automobile: 1.00
+  - bird: 1.00
+  - cat: 1.00
+  - deer: 0.80
+  - dog: 0.50
+  - frog: 1.00
+  - horse: 0.60
+  - ship: 0.90
+  - truck: 0.90
